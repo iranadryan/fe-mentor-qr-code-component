@@ -8,11 +8,11 @@ It was a easy, but a fun project to make. I just needed to use simple HTML and C
 
 ### Screenshot
 
-<img src="screenshot.png" width="720">
+<center><img src="screenshot.png" width="720"></center>
 
 ### Links
 
-- Preview: [Add live site URL here](https://your-live-site-url.com)
+- Live site URL: [QR code component](https://iranadryan.github.io/fe-mentor-qr-code-component/)
 
 ### Built with
 
